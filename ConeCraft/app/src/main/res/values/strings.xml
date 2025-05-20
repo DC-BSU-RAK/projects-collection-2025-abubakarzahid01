@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConeCraft</string>
+    <string name="flavour_two">Flavour Two</string>
+    <string name="pick_your_flavors_to_create_the_perfect_scoop">Pick Your Flavors to Create the Perfect Scoop</string>
+    <string name="flavour_one">Flavour One</string>
+    <string name="mix_the_flavor">Mix the flavor</string>
+    <string name="scoop_guide">Scoop Guide</string>
+</resources>
